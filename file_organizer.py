@@ -1,4 +1,4 @@
-# python bot.py --path ./files
+# python bot.py --path ./yourpath
 import os
 import argparse
 

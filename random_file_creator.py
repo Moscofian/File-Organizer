@@ -1,4 +1,4 @@
-# python bot_criador.py --path ./files
+# python bot_criador.py --path ./yourpath
 import os
 import argparse
 import random
